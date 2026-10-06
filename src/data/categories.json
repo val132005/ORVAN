@@ -1,0 +1,7 @@
+[
+  { "id": "auto", "name": "Auto", "title": "Tecnología para el auto", "icon": "auto" },
+  { "id": "contenido", "name": "Contenido", "title": "Creación de contenido", "icon": "mic" },
+  { "id": "hogar", "name": "Hogar", "title": "Hogar y entretenimiento", "icon": "tv" },
+  { "id": "energia", "name": "Energía", "title": "Energía y carga", "icon": "bolt" },
+  { "id": "audio", "name": "Audio", "title": "Audio y música", "icon": "audio" }
+]

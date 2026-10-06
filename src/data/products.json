@@ -1,0 +1,207 @@
+[
+  {
+    "id": "AUT-001",
+    "name": "Compresor de aire portátil",
+    "subtitle": "Para llantas · Ref. 3668",
+    "category": "auto",
+    "price": 89900,
+    "available": true,
+    "featured": true,
+    "badges": ["Destacado"],
+    "summary": "Compacto y listo para viajar en el baúl: ten a mano la solución para una llanta baja.",
+    "description": "Un compresor de aire portátil de formato compacto, pensado para llevar siempre en el carro. Llega con su manguera flexible, juego de boquillas y cable USB.",
+    "features": [
+      "Formato compacto para guardar en el baúl",
+      "Panel frontal de 5 botones",
+      "Lectura digital de presión"
+    ],
+    "highlights": ["Portátil", "Lectura digital", "Ref. 3668"],
+    "includes": ["Compresor", "Manguera flexible", "Juego de boquillas adaptadoras", "Cable USB"],
+    "specsSource": "Lectura digital según la ilustración del empaque. Contenido según foto real del producto.",
+    "image": "aut-001-estudio-720.webp",
+    "imageLarge": "aut-001-estudio-1440.webp",
+    "imageAlt": "Compresor de aire portátil ORVAN Ref. 3668 sobre fondo de estudio oscuro",
+    "gallery": [
+      { "kind": "studio", "image": "aut-001-estudio-720.webp", "imageLarge": "aut-001-estudio-1440.webp", "alt": "Compresor de aire portátil, vista de estudio" },
+      { "kind": "scene", "image": "aut-001-escena-720.webp", "imageLarge": "aut-001-escena-1440.webp", "alt": "Compresor de aire portátil junto a la llanta de un auto" },
+      { "kind": "real", "image": "aut-001-real-1-960.webp", "alt": "Foto real: compresor con manguera, boquillas y cable USB" },
+      { "kind": "real", "image": "aut-001-real-2-960.webp", "alt": "Foto real: empaque del compresor Ref. 3668" }
+    ]
+  },
+  {
+    "id": "MIC-001",
+    "name": "Micrófono inalámbrico doble",
+    "subtitle": "2 transmisores · Estuche de carga",
+    "category": "contenido",
+    "price": 89900,
+    "available": true,
+    "featured": true,
+    "badges": ["Destacado"],
+    "summary": "Dos micrófonos inalámbricos y un receptor USB-C para grabar con tu celular sin cables.",
+    "description": "Sistema de micrófono inalámbrico con dos transmisores y receptor USB-C, guardados en un estuche de carga con indicador de batería. Ideal para entrevistas, clases, reels y contenido en pareja.",
+    "features": [
+      "2 transmisores inalámbricos (TX)",
+      "Receptor con conector USB-C",
+      "Estuche de carga con indicador de batería en %",
+      "Transmisión inalámbrica 2.4G"
+    ],
+    "highlights": ["2 micrófonos", "USB-C", "Estuche de carga"],
+    "includes": ["2 micrófonos transmisores", "Receptor USB-C", "Estuche de carga"],
+    "specsSource": "Transmisión 2.4G según el empaque. Componentes según foto real del producto.",
+    "image": "mic-001-estudio-720.webp",
+    "imageLarge": "mic-001-estudio-1440.webp",
+    "imageAlt": "Micrófono inalámbrico doble con estuche de carga abierto",
+    "gallery": [
+      { "kind": "studio", "image": "mic-001-estudio-720.webp", "imageLarge": "mic-001-estudio-1440.webp", "alt": "Micrófono inalámbrico doble, vista de estudio" },
+      { "kind": "scene", "image": "mic-001-escena-720.webp", "imageLarge": "mic-001-escena-1440.webp", "alt": "Micrófono inalámbrico doble en un escritorio de creación de contenido" },
+      { "kind": "real", "image": "mic-001-real-1-960.webp", "alt": "Foto real: estuche, dos micrófonos y receptor" },
+      { "kind": "real", "image": "mic-001-real-2-960.webp", "alt": "Foto real: producto junto a su empaque" }
+    ]
+  },
+  {
+    "id": "STR-001",
+    "name": "TV Stick 4K",
+    "subtitle": "Android TV · Control remoto incluido",
+    "category": "hogar",
+    "price": 113900,
+    "available": true,
+    "badges": ["4K"],
+    "summary": "Conéctalo al puerto HDMI y lleva apps y contenido en streaming a tu televisor.",
+    "description": "Dispositivo de streaming en formato stick que se conecta al puerto HDMI del televisor. Incluye control remoto y cable extensor HDMI para facilitar la instalación.",
+    "features": [
+      "Resolución 4K Ultra HD",
+      "Sistema Android TV con Google Play",
+      "Compatible con Google Assistant",
+      "Conexión por puerto HDMI"
+    ],
+    "highlights": ["4K Ultra HD", "Android TV", "HDMI"],
+    "includes": ["TV Stick", "Control remoto", "Cable extensor HDMI"],
+    "specsSource": "Resolución, sistema y asistente según el empaque del fabricante. Contenido según foto real.",
+    "image": "str-001-estudio-720.webp",
+    "imageLarge": "str-001-estudio-1440.webp",
+    "imageAlt": "TV Stick 4K con control remoto y cable extensor HDMI",
+    "gallery": [
+      { "kind": "studio", "image": "str-001-estudio-720.webp", "imageLarge": "str-001-estudio-1440.webp", "alt": "TV Stick 4K, vista de estudio" },
+      { "kind": "scene", "image": "str-001-escena-720.webp", "imageLarge": "str-001-escena-1440.webp", "alt": "TV Stick 4K y control remoto junto a un televisor" },
+      { "kind": "real", "image": "str-001-real-1-960.webp", "alt": "Foto real: stick, control remoto y cable extensor" }
+    ]
+  },
+  {
+    "id": "ENE-001",
+    "name": "Power Bank magnético 7 en 1",
+    "subtitle": "Teclop PWTL-20 · 20.000 mAh",
+    "category": "energia",
+    "brand": "Teclop",
+    "price": 92900,
+    "available": true,
+    "badges": ["20.000 mAh"],
+    "summary": "Gran capacidad, carga inalámbrica magnética y cables integrados en una sola pieza.",
+    "description": "Batería portátil de 20.000 mAh para un uso prolongado, con carga inalámbrica magnética, cables USB-C y Lightning integrados y pantalla LED. Diseño delgado y compacto, ideal para viajes y uso diario.",
+    "features": [
+      "Capacidad de 20.000 mAh",
+      "Carga inalámbrica magnética",
+      "Cables USB-C y Lightning integrados",
+      "Salida USB-A · Potencia de 22,5 W",
+      "Carga hasta 5 dispositivos a la vez",
+      "Pantalla LED inteligente"
+    ],
+    "highlights": ["20.000 mAh", "22,5 W", "Magnética"],
+    "specsSource": "Especificaciones según el empaque del fabricante (Teclop, modelo PWTL-20).",
+    "image": "ene-001-estudio-720.webp",
+    "imageLarge": "ene-001-estudio-1440.webp",
+    "imageAlt": "Power bank magnético Teclop de 20.000 mAh",
+    "gallery": [
+      { "kind": "studio", "image": "ene-001-estudio-720.webp", "imageLarge": "ene-001-estudio-1440.webp", "alt": "Power bank Teclop, vista de estudio" },
+      { "kind": "scene", "image": "ene-001-escena-720.webp", "imageLarge": "ene-001-escena-1440.webp", "alt": "Power bank Teclop sobre un organizador de viaje" },
+      { "kind": "real", "image": "ene-001-real-1-960.webp", "alt": "Foto real: power bank Teclop" },
+      { "kind": "real", "image": "ene-001-real-2-960.webp", "alt": "Foto real: empaque con especificaciones del power bank" }
+    ]
+  },
+  {
+    "id": "AUD-001",
+    "name": "Audífonos inalámbricos in-ear",
+    "subtitle": "Estuche de carga · Almohadillas de repuesto",
+    "category": "audio",
+    "price": 70000,
+    "available": true,
+    "badges": ["Nuevo"],
+    "summary": "Audífonos in-ear con un estuche de carga de bolsillo, para escuchar sin cables donde estés.",
+    "description": "Audífonos inalámbricos de tipo in-ear con almohadillas de silicona y un estuche compacto que los guarda y los recarga. Vienen con almohadillas de repuesto para ajustar el calce a tu oído.",
+    "features": [
+      "Inalámbricos, sin cables entre los audífonos",
+      "Diseño in-ear con almohadillas de silicona",
+      "Estuche de carga compacto",
+      "Almohadillas de repuesto para ajustar el calce"
+    ],
+    "highlights": ["In-ear", "Estuche de carga", "Repuestos"],
+    "includes": ["Par de audífonos", "Estuche de carga", "8 almohadillas de silicona de repuesto"],
+    "specsSource": "Características y contenido según fotos reales del producto. El empaque no indica autonomía ni versión de Bluetooth.",
+    "image": "aud-001-estudio-720.webp",
+    "imageLarge": "aud-001-estudio-1440.webp",
+    "imageAlt": "Audífonos inalámbricos in-ear blancos junto a su estuche de carga",
+    "gallery": [
+      { "kind": "studio", "image": "aud-001-estudio-720.webp", "imageLarge": "aud-001-estudio-1440.webp", "alt": "Audífonos inalámbricos in-ear, vista de estudio" },
+      { "kind": "scene", "image": "aud-001-escena-720.webp", "imageLarge": "aud-001-escena-1440.webp", "alt": "Audífonos y estuche de carga abierto sobre un escritorio" },
+      { "kind": "real", "image": "aud-001-real-1-960.webp", "alt": "Foto real: estuche, empaque y almohadillas de repuesto" },
+      { "kind": "real", "image": "aud-001-real-2-960.webp", "alt": "Foto real: contenido de la caja abierta" }
+    ]
+  },
+  {
+    "id": "PAR-001",
+    "name": "Parlante Bluetooth compacto",
+    "subtitle": "Bluetooth 5.4 · Negro o rojo",
+    "category": "audio",
+    "price": 57960,
+    "available": true,
+    "badges": ["Nuevo", "2 colores"],
+    "summary": "Pequeño y con correa para colgar: lleva tu música en la mochila, la bici o el escritorio.",
+    "description": "Parlante inalámbrico de formato compacto, con frente en tela tejida, controles en el borde superior y correa de tela para colgarlo. Se conecta por Bluetooth 5.4 y está disponible en negro y en rojo.",
+    "features": [
+      "Conexión Bluetooth 5.4",
+      "Hasta 7 horas de reproducción",
+      "Frente en tela tejida",
+      "Correa de tela para colgar",
+      "Disponible en negro y rojo"
+    ],
+    "highlights": ["Bluetooth 5.4", "7 h", "Compacto"],
+    "specsSource": "Bluetooth 5.4 y autonomía de 7 h según el empaque; la autonomía real depende del volumen. Colores según fotos reales.",
+    "image": "par-001-estudio-720.webp",
+    "imageLarge": "par-001-estudio-1440.webp",
+    "imageAlt": "Parlante Bluetooth compacto en negro y en rojo",
+    "gallery": [
+      { "kind": "studio", "image": "par-001-estudio-720.webp", "imageLarge": "par-001-estudio-1440.webp", "alt": "Parlante Bluetooth compacto, vista de estudio en sus dos colores" },
+      { "kind": "scene", "image": "par-001-escena-720.webp", "imageLarge": "par-001-escena-1440.webp", "alt": "Parlante compacto negro colgado de una mochila al aire libre" },
+      { "kind": "real", "image": "par-001-real-1-960.webp", "alt": "Foto real: parlante compacto en color negro" },
+      { "kind": "real", "image": "par-001-real-2-960.webp", "alt": "Foto real: parlante compacto en color rojo" }
+    ]
+  },
+  {
+    "id": "PAR-002",
+    "name": "Parlante Bluetooth mediano",
+    "subtitle": "Bluetooth 5.4 · Azul o negro",
+    "category": "audio",
+    "price": 88000,
+    "available": true,
+    "badges": ["Nuevo", "2 colores"],
+    "summary": "Formato cilíndrico y cordón de mano: sonido para el paseo, la terraza o la sala.",
+    "description": "Parlante inalámbrico cilíndrico recubierto en tela tejida, con extremos de goma, botones laterales y cordón para llevarlo en la mano. Se conecta por Bluetooth 5.4 y está disponible en azul y en negro.",
+    "features": [
+      "Conexión Bluetooth 5.4",
+      "Hasta 12 horas de reproducción",
+      "Recubrimiento en tela tejida y extremos de goma",
+      "Cordón para llevarlo en la mano",
+      "Disponible en azul y negro"
+    ],
+    "highlights": ["Bluetooth 5.4", "12 h", "Portátil"],
+    "specsSource": "Bluetooth 5.4 y autonomía de 12 h según el empaque; la autonomía real depende del volumen. Colores según fotos reales.",
+    "image": "par-002-estudio-720.webp",
+    "imageLarge": "par-002-estudio-1440.webp",
+    "imageAlt": "Parlante Bluetooth mediano en azul y en negro",
+    "gallery": [
+      { "kind": "studio", "image": "par-002-estudio-720.webp", "imageLarge": "par-002-estudio-1440.webp", "alt": "Parlante Bluetooth mediano, vista de estudio en sus dos colores" },
+      { "kind": "scene", "image": "par-002-escena-720.webp", "imageLarge": "par-002-escena-1440.webp", "alt": "Parlante mediano azul junto a una piscina al anochecer" },
+      { "kind": "real", "image": "par-002-real-1-960.webp", "alt": "Foto real: parlante mediano en color azul" },
+      { "kind": "real", "image": "par-002-real-2-960.webp", "alt": "Foto real: parlante mediano en color negro" }
+    ]
+  }
+]

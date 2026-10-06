@@ -1,0 +1,18 @@
+/* ==========================================================================
+   ORVAN · Hoja de estilos principal
+   El orden importa: tokens → base → componentes → animaciones (al final).
+   ========================================================================== */
+@import "./tokens.css";
+@import "./base.css";
+@import "./buttons.css";
+@import "./header.css";
+@import "./hero.css";
+@import "./brand.css";
+@import "./catalog.css";
+@import "./slider.css";
+@import "./perks.css";
+@import "./cta.css";
+@import "./toast.css";
+@import "./footer.css";
+@import "./modal.css";
+@import "./animations.css";

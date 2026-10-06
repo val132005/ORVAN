@@ -1,0 +1,44 @@
+{
+  "pillars": [
+    {
+      "title": "Calidad con criterio",
+      "text": "Un producto entra al catálogo por la utilidad que aporta, no para llenar estanterías."
+    },
+    {
+      "title": "Innovación útil",
+      "text": "Carga magnética, audio inalámbrico, streaming 4K: tecnología actual aplicada a lo cotidiano."
+    },
+    {
+      "title": "Diseño que acompaña",
+      "text": "Formatos compactos y portátiles, pensados para el auto, el escritorio, la sala, el paseo y el viaje."
+    }
+  ],
+  "perks": [
+    {
+      "icon": "target",
+      "title": "Selección curada",
+      "text": "Pocos productos, escogidos por lo que resuelven en el auto, el contenido, el hogar, el audio y la energía."
+    },
+    {
+      "icon": "eye",
+      "title": "Fotos reales",
+      "text": "Además de las fotos de catálogo, ves el producto real y su contenido antes de comprar."
+    },
+    {
+      "icon": "box",
+      "title": "Qué incluye, claro",
+      "text": "Cada ficha detalla el contenido de la caja y de dónde salen sus especificaciones."
+    },
+    {
+      "icon": "shield",
+      "title": "Garantía legal",
+      "text": "Respaldamos tus compras conforme al Estatuto del Consumidor (Ley 1480 de 2011)."
+    }
+  ],
+  "stats": [
+    { "value": 20000, "decimals": 0, "unit": "mAh", "label": "de capacidad en el power bank" },
+    { "value": 4, "decimals": 0, "unit": "K", "label": "Ultra HD en el TV Stick" },
+    { "value": 2, "decimals": 0, "unit": "mics", "label": "inalámbricos en un solo estuche" },
+    { "value": 22.5, "decimals": 1, "unit": "W", "label": "de potencia de carga" }
+  ]
+}

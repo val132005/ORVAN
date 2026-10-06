@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-14 -16 570 132" width="1140" height="264">
+  <title>ORVAN</title>
+  <defs>
+    <linearGradient id="o-volt" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#0A6CFF"/><stop offset="1" stop-color="#9900FF"/>
+    </linearGradient>
+    <linearGradient id="o-chev" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E5FF"/><stop offset=".45" stop-color="#0A6CFF"/><stop offset="1" stop-color="#9900FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M76.38 12.32 A46 46 0 1 1 23.62 12.32" fill="none" stroke="url(#o-volt)" stroke-width="15" stroke-linecap="round"/><polygon points="34,0 50,0 36,38 58,38 16,100 26,56 4,56" transform="translate(29 -6) scale(.72 .9)" fill="#F5F2FB"/><g transform="translate(128 0)"><path d="M7.5 100 V7.5 H45 A23 23 0 0 1 45 53.5 H7.5" fill="none" stroke="#F5F2FB" stroke-width="15"/><polygon points="36,53.5 53,53.5 82,100 65,100" fill="#F5F2FB"/></g><polygon points="0,0 16,0 46,80 76,0 92,0 54,100 38,100" transform="translate(232 0)" fill="#F5F2FB"/><polygon points="38,0 54,0 92,100 76,100 46,20 16,100 0,100" transform="translate(346 0)" fill="url(#o-chev)"/><g transform="translate(460 0)" fill="#F5F2FB"><rect width="15" height="100"/><rect x="67" width="15" height="100"/><polygon points="0,0 17,0 82,100 65,100"/></g>
+</svg>

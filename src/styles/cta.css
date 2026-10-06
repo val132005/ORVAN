@@ -1,0 +1,17 @@
+/* CTA final -------------------------------------------------------------------- */
+.cta__card {
+  position: relative; overflow: hidden; isolation: isolate;
+  text-align: center; padding: clamp(60px, 8vw, 110px) clamp(24px, 6vw, 80px);
+  border-radius: 36px; border: 1px solid color-mix(in srgb, var(--accent) 22%, transparent);
+  background:
+    radial-gradient(ellipse 60% 80% at 50% 0%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 70%),
+    radial-gradient(ellipse 50% 60% at 100% 100%, color-mix(in srgb, var(--blue) 12%, transparent), transparent 70%),
+    var(--surface);
+}
+.cta__orbit { position: absolute; z-index: -1; width: 900px; height: 900px; left: 50%; top: 50%; translate: -50% -50%; border-radius: 50%; border: 1px dashed rgba(255,255,255,.08); animation: spin 80s linear infinite; }
+.cta__orbit::before { content: ""; position: absolute; inset: 120px; border-radius: 50%; border: 1px solid rgba(255,255,255,.06); }
+.cta__orbit::after { content: ""; position: absolute; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 18px var(--accent); top: 50%; right: -5px; }
+.cta__mark { margin: 0 auto 26px; width: 56px; animation: float 6s ease-in-out infinite; }
+.cta__title { font-size: clamp(32px, 5vw, 64px); }
+.cta__text { color: var(--muted); max-width: 520px; margin: 20px auto 0; font-size: 17px; }
+.cta__actions { margin-top: 40px; display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; }
