@@ -1,5 +1,6 @@
-import logo from '../assets/images/logo/orvan-logo-fondo-oscuro.svg';
-import isotipo from '../assets/images/logo/orvan-simbolo-fondo-oscuro.svg';
+import logo from '../assets/images/logo/orvan-imagotipo-horizontal-color-fondo-oscuro.svg';
+import logoVertical from '../assets/images/logo/orvan-imagotipo-vertical-color-fondo-oscuro.svg';
+import isotipo from '../assets/images/logo/orvan-isotipo-color-fondo-oscuro.svg';
 
 /**
  * Identidad e información general de la tienda.
@@ -9,6 +10,7 @@ export const BRAND = {
   name: 'ORVAN',
   tagline: 'Tecnología bien elegida.',
   logo,
+  logoVertical,
   isotipo,
   location: { city: 'Bogotá', country: 'Colombia' },
 };

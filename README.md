@@ -39,9 +39,9 @@ deja vacío, los botones de pedido muestran el aviso "Nuestro canal de contacto 
 pronto". Con el número configurado, todos los botones abren WhatsApp con:
 
 ```
-Hola, estoy interesado en comprar el producto: Power Bank magnético 7 en 1.
-Código: ENE-001
-Precio: $ 92.900
+Hola, estoy interesado en comprar el producto: Compresor de aire portátil.
+Código: AUT-001
+Precio: $ 89.900
 ```
 
 La plantilla admite los marcadores `{producto}`, `{codigo}` y `{precio}`.

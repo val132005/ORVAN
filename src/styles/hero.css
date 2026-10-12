@@ -10,12 +10,14 @@
   opacity: .5;
 }
 .hero__glow { position: absolute; width: 60vw; height: 60vw; right: -10vw; top: 5%; background: radial-gradient(circle, color-mix(in srgb, var(--accent) 14%, transparent), transparent 62%); filter: blur(10px); }
-.hero__media { position: absolute; inset: 0 0 0 auto; width: min(62vw, 1100px); z-index: -1; }
+/* La foto se ancla abajo a la derecha y no ocupa todo el alto: así los productos de la izquierda
+   (Chromecast y onn) quedan a la derecha del titular y fuera del degradado lateral. */
+.hero__media { position: absolute; inset: auto 0 0 auto; width: min(64vw, 1100px); height: min(84%, 52vw); z-index: -1; }
 .hero__media img {
-  width: 100%; height: 100%; object-fit: cover; object-position: 92% 55%;
-  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 32%), linear-gradient(0deg, transparent 0%, #000 9%);
-  -webkit-mask-composite: source-in; mask-composite: intersect;
-  mask-image: linear-gradient(90deg, transparent 0%, #000 32%), linear-gradient(0deg, transparent 0%, #000 9%);
+  width: 100%; height: 100%; object-fit: cover; object-position: 100% 50%;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 20%), linear-gradient(0deg, transparent 0%, #000 9%), linear-gradient(180deg, transparent 0%, #000 14%);
+  -webkit-mask-composite: source-in, source-in; mask-composite: intersect;
+  mask-image: linear-gradient(90deg, transparent 0%, #000 20%), linear-gradient(0deg, transparent 0%, #000 9%), linear-gradient(180deg, transparent 0%, #000 14%);
   opacity: 0; transform: scale(1.06);
   animation: heroImg 1.6s var(--ease-out) .25s forwards;
   will-change: transform;
@@ -35,7 +37,7 @@
 
 @media (max-width: 899px) {
   .hero { min-height: auto; flex-direction: column; align-items: stretch; padding: 96px 0 56px; }
-  .hero__media { position: relative; inset: auto; width: 100%; order: 2; margin-top: 24px; aspect-ratio: 4 / 3; }
+  .hero__media { position: relative; inset: auto; width: 100%; height: auto; order: 2; margin-top: 24px; aspect-ratio: 4 / 3; }
   .hero__media img { -webkit-mask-image: linear-gradient(0deg, transparent 0%, #000 18%, #000 85%, transparent 100%); mask-image: linear-gradient(0deg, transparent 0%, #000 18%, #000 85%, transparent 100%); -webkit-mask-composite: initial; mask-composite: initial; object-position: 75% 60%; }
   .hero__orbit { width: 90vw; right: -10vw; }
   .hero__glow { width: 120vw; height: 120vw; right: -40vw; top: 40%; }

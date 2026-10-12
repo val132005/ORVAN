@@ -6,7 +6,7 @@
     },
     {
       "title": "Innovación útil",
-      "text": "Carga magnética, audio inalámbrico, streaming 4K: tecnología actual aplicada a lo cotidiano."
+      "text": "Audio inalámbrico, micrófonos sin cables, streaming 4K: tecnología actual aplicada a lo cotidiano."
     },
     {
       "title": "Diseño que acompaña",
@@ -17,7 +17,7 @@
     {
       "icon": "target",
       "title": "Selección curada",
-      "text": "Pocos productos, escogidos por lo que resuelven en el auto, el contenido, el hogar, el audio y la energía."
+      "text": "Pocos productos, escogidos por lo que resuelven en el auto, el contenido, el hogar y el audio."
     },
     {
       "icon": "eye",
@@ -36,9 +36,9 @@
     }
   ],
   "stats": [
-    { "value": 20000, "decimals": 0, "unit": "mAh", "label": "de capacidad en el power bank" },
+    { "value": 12, "decimals": 0, "unit": "h", "label": "de música en el parlante mediano" },
     { "value": 4, "decimals": 0, "unit": "K", "label": "Ultra HD en el TV Stick" },
     { "value": 2, "decimals": 0, "unit": "mics", "label": "inalámbricos en un solo estuche" },
-    { "value": 22.5, "decimals": 1, "unit": "W", "label": "de potencia de carga" }
+    { "value": 5.4, "decimals": 1, "unit": "BT", "label": "Bluetooth en los parlantes" }
   ]
 }

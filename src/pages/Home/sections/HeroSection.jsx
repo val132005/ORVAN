@@ -35,7 +35,7 @@ export default function HeroSection({ categoryCount }) {
           <span className="text-accent">bien elegida.</span>
         </h1>
         <p className="hero__lead hero__in" style={{ '--d': 2 }}>
-          Seleccionamos tecnología útil para tu auto, tu contenido, tu hogar, tu música y tu energía diaria.
+          Seleccionamos tecnología útil para tu auto, tu contenido, tu hogar y tu música.
           Elegida con criterio, explicada con claridad y respaldada desde {BRAND.location.city}.
         </p>
         <div className="hero__actions hero__in" style={{ '--d': 3 }}>

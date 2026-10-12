@@ -18,7 +18,7 @@ export default function Header() {
     <header className={cx('nav', isScrolled && 'is-scrolled', isMenuOpen && 'is-open')}>
       <div className="nav__inner container">
         <a className="nav__brand" href="#inicio" aria-label={`${BRAND.name}, ir al inicio`}>
-          <img src={BRAND.logo} alt={BRAND.name} width="132" height="31" />
+          <img src={BRAND.logo} alt={BRAND.name} width="176" height="22" />
         </a>
         <nav className="nav__links" id="menu" aria-label="Principal">
           {NAV_LINKS.map((link) => (

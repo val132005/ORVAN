@@ -25,7 +25,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__grid">
         <div className="footer__brand">
-          <img src={BRAND.logo} alt={BRAND.name} width="168" height="39" />
+          <img src={BRAND.logoVertical} alt={BRAND.name} width="160" height="78" />
           <p>{BRAND.tagline}</p>
           <p className="footer__muted">
             <Icon name="pin" size="sm" /> <span>{BRAND.location.city}, {BRAND.location.country}</span>

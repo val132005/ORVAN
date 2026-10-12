@@ -87,37 +87,6 @@
     ]
   },
   {
-    "id": "ENE-001",
-    "name": "Power Bank magnético 7 en 1",
-    "subtitle": "Teclop PWTL-20 · 20.000 mAh",
-    "category": "energia",
-    "brand": "Teclop",
-    "price": 92900,
-    "available": true,
-    "badges": ["20.000 mAh"],
-    "summary": "Gran capacidad, carga inalámbrica magnética y cables integrados en una sola pieza.",
-    "description": "Batería portátil de 20.000 mAh para un uso prolongado, con carga inalámbrica magnética, cables USB-C y Lightning integrados y pantalla LED. Diseño delgado y compacto, ideal para viajes y uso diario.",
-    "features": [
-      "Capacidad de 20.000 mAh",
-      "Carga inalámbrica magnética",
-      "Cables USB-C y Lightning integrados",
-      "Salida USB-A · Potencia de 22,5 W",
-      "Carga hasta 5 dispositivos a la vez",
-      "Pantalla LED inteligente"
-    ],
-    "highlights": ["20.000 mAh", "22,5 W", "Magnética"],
-    "specsSource": "Especificaciones según el empaque del fabricante (Teclop, modelo PWTL-20).",
-    "image": "ene-001-estudio-720.webp",
-    "imageLarge": "ene-001-estudio-1440.webp",
-    "imageAlt": "Power bank magnético Teclop de 20.000 mAh",
-    "gallery": [
-      { "kind": "studio", "image": "ene-001-estudio-720.webp", "imageLarge": "ene-001-estudio-1440.webp", "alt": "Power bank Teclop, vista de estudio" },
-      { "kind": "scene", "image": "ene-001-escena-720.webp", "imageLarge": "ene-001-escena-1440.webp", "alt": "Power bank Teclop sobre un organizador de viaje" },
-      { "kind": "real", "image": "ene-001-real-1-960.webp", "alt": "Foto real: power bank Teclop" },
-      { "kind": "real", "image": "ene-001-real-2-960.webp", "alt": "Foto real: empaque con especificaciones del power bank" }
-    ]
-  },
-  {
     "id": "AUD-001",
     "name": "Audífonos inalámbricos in-ear",
     "subtitle": "Estuche de carga · Almohadillas de repuesto",
