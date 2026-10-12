@@ -1,4 +1,4 @@
-import logo from '../assets/images/logo/orvan-imagotipo-horizontal-color-fondo-oscuro.svg';
+import logo from '../assets/images/logo/orvan-logotipo-color-fondo-oscuro.svg';
 import logoVertical from '../assets/images/logo/orvan-imagotipo-vertical-color-fondo-oscuro.svg';
 import isotipo from '../assets/images/logo/orvan-isotipo-color-fondo-oscuro.svg';
 

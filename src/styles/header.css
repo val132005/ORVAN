@@ -12,7 +12,7 @@
 .nav__inner { display: flex; align-items: center; gap: 32px; height: 76px; transition: height var(--t); }
 .nav.is-scrolled .nav__inner { height: 64px; }
 .nav__brand { display: flex; align-items: center; }
-.nav__brand img { width: 176px; height: auto; }
+.nav__brand img { width: 150px; height: auto; }
 .nav__links { display: flex; gap: 30px; margin-left: auto; font-size: 14px; color: var(--muted); }
 .nav__links a { position: relative; padding: 6px 0; transition: color var(--t-fast); }
 .nav__links a::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px; background: var(--accent); transform: scaleX(0); transform-origin: left; transition: transform var(--t) var(--ease); }

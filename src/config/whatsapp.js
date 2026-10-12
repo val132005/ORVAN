@@ -11,7 +11,7 @@
  * - generalMessage: mensaje del botón "Solicitar información" (sin producto).
  */
 export const WHATSAPP_CONFIG = {
-  phoneNumber: '573244584528', // +57 324 458 4528
+  phoneNumber: '573019346295', // +57 324 458 4528
   productMessage:
     'Hola, estoy interesado en comprar el producto: {producto}.\nCódigo: {codigo}\nPrecio: {precio}',
   generalMessage: 'Hola ORVAN, quiero información sobre el catálogo.',
